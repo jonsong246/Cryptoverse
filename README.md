@@ -1,5 +1,7 @@
 # ABOUT
 
+## A React-based Cryptocurrency Application
+
 Extensions: 
     - antd 
     - @ant-design/icons
